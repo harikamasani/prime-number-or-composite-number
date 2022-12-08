@@ -1,5 +1,7 @@
 # prime-number-or-composite-number
 By using python we can find the numbers in a range whether it is prime or composite number
+
+
 Def about():
 
 "enter a positive integer range [A, B] and the system will find out the status (Prime or composite) of each number available
